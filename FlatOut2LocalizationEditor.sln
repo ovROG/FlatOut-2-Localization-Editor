@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatOut2LocalizationEditor", "FlatOut2LocalizationEditor.csproj", "{9695E8C0-EF0E-4885-AC85-24F0EDE443F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9695E8C0-EF0E-4885-AC85-24F0EDE443F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9695E8C0-EF0E-4885-AC85-24F0EDE443F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9695E8C0-EF0E-4885-AC85-24F0EDE443F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9695E8C0-EF0E-4885-AC85-24F0EDE443F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FAE7F43-15C7-4057-AB22-946A7F37F7E8}
+	EndGlobalSection
+EndGlobal
